@@ -1,0 +1,16 @@
+aside {padding-top:  20px;
+    background-color:dodgerblue;
+    /* text-decoration-color: white; */
+    width: var(--sidebar-width);
+    height: calc(100vh - var(--toolbar-height));
+    position: fixed;
+}
+ul {
+    list-style: none;
+}
+li {
+    font-size: 50px;
+  }
+li:hover {
+    color: white;
+  }

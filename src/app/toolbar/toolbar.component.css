@@ -1,0 +1,8 @@
+header {
+    background-color:black;
+    height: var(--toolbar-height);
+}
+h3 {
+    color: white;
+    padding:10px;
+}
